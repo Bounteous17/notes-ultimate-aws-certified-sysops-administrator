@@ -9,6 +9,11 @@ Learning path: [Udemy OB Ultimate AWS Certified SysOps Administrator Associate 2
 
 ### networking
 
+#### basics
+
+Network interfaces and network cards are not the same:
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
+
 #### enhanced
 
 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/enhanced-networking.html
